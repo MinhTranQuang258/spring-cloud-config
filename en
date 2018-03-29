@@ -1,0 +1,3 @@
+jasypt:
+    decryptor:
+        password: ENC(T9VYETzDB5Q/hZQkiOJWAXRIcMzth5tA)
