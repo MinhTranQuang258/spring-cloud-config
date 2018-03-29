@@ -1,6 +1,0 @@
-jasypt:
-    decryptor:
-        password: ENC(T9VYETzDB5Q/hZQkiOJWAXRIcMzth5tA)
-jasypt:
-    encryptor:
-        password: ENC(T9VYETzDB5Q/hZQkiOJWAXRIcMzth5tA)
